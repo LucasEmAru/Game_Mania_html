@@ -6,58 +6,91 @@
 .container-brig{
     width: 1200px;
     margin: 0px;
+    background-position: center;
 
 }
 .Logo{
     align-items: center;
+    background-image: url(../Imagens/Logo.png);
+    justify-content: center;
+    background-position: center;
+    
 }
 .Sac{
     height: 45px;
+    background-position: left;
 }
 .Pesquisa{
     height: 45px;
+    background-position: left;
 }
 .login{
     height: 45px;
+    background-position: right;
+    justify-content: space-between;
 
 }
 .compras{
     height: 45px;
+    background-position: right;
 }
 
 .play{
-    height: 45px ;
+    height: 40px ;
 }
 .Plays{
-    height: 45px;
+    height: 40px;
 }
 .Xbox{
-    height: 45px;
+    height: 40px;
 }
 .Nitendo{
-    height: 45px;
+    height: 40px;
 }
 .Pc{
-    height: 45px;
+    height: 40px;
 }
 .Eletronicos{
-    height: 45px;
+    height: 40px;
 }
 .Geek{
-    height: 45px;
+    height: 40px;
 }
 .Categorias{
-    height: 45px;
-
+    height: 40px;
 }
 .Imagem{
     align-items: center;
+    background-position: center;
+}
+.Banner{
+    height: 368px;
+    background-image: url(../Imagens/Banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1360px;
+}
+.Lançamento{
+    background-image: url(../Imagens/Lançamentos.png);
+    background-repeat: no-repeat;
+    height: 40px;
+}
+.linha{
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.produtos{
+    background-position: center;
+    display: block;
+
+
+    }
+.Inferior{
+    height: 78px;
+    background-position: center;
+    background-size: cover;
 }
 
-.cabeçalho{
-
-
-}
 
 
 header{
