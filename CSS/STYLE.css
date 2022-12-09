@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+.container-brig{
+    width: 1200px;
+    margin: 0px;
+
+}
+.Logo{
+    align-items: center;
+}
+.Sac{
+    height: 45px;
+}
+.Pesquisa{
+    height: 45px;
+}
+.login{
+    height: 45px;
+
+}
+.compras{
+    height: 45px;
+}
+
+.play{
+    height: 45px ;
+}
+.Plays{
+    height: 45px;
+}
+.Xbox{
+    height: 45px;
+}
+.Nitendo{
+    height: 45px;
+}
+.Pc{
+    height: 45px;
+}
+.Eletronicos{
+    height: 45px;
+}
+.Geek{
+    height: 45px;
+}
+.Categorias{
+    height: 45px;
+
+}
+.Imagem{
+    align-items: center;
+}
+
+.cabeçalho{
+
+
+}
+
+
+header{
+    background-color:hsla(0, 0%, 0%, 0.904) ;
+    height: 180px;
+    padding-top: 0px;
+}
+a{
+    color: aliceblue;
+    text-decoration:none;
+    width:700px;
+    
+}
+
